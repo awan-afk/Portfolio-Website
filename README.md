@@ -21,7 +21,7 @@ The site adapts dynamically:
 
 ### Getting Started
 Simply click the click to view my live portfolio website
-* www.google.com
-* 
+* https://wajihazainab.netlify.app/
+  
 ### Contact
 Wajiha Zainab - malikwajihazainab@gmail.com
