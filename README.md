@@ -20,7 +20,7 @@ The site adapts dynamically:
 * Experience: Skill tags become swipeable carousels.
 
 ### Getting Started
-Simply click the click to view my live portfolio website
+Simply click the link to view my live portfolio website
 * https://wajihazainab.netlify.app/
   
 ### Contact
